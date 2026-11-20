@@ -1,10 +1,10 @@
 {
- "checked_at": "2026-11-20 00:56",
+ "checked_at": "2026-11-20 04:13",
  "sites": [
   {
    "domain": "empathycenter.ru",
-   "status": 200,
-   "ms": 1637,
+   "status": 502,
+   "ms": 15291,
    "error": null,
    "ssl": {
     "until": "2027-01-10",
@@ -19,7 +19,7 @@
   {
    "domain": "psychiatrist-online.ru",
    "status": 200,
-   "ms": 2361,
+   "ms": 2007,
    "error": null,
    "ssl": {
     "until": "2027-01-27",
@@ -34,7 +34,7 @@
   {
    "domain": "empathy-center.ru",
    "status": 200,
-   "ms": 9295,
+   "ms": 2166,
    "error": null,
    "ssl": {
     "until": "2027-01-30",
@@ -50,126 +50,65 @@
  "pages": [
   {
    "path": "/",
-   "status": 200,
-   "ms": 1680
+   "status": 502,
+   "ms": 14836
   },
   {
    "path": "/staff/psychiatrists/",
-   "status": 200,
-   "ms": 1322
+   "status": 502,
+   "ms": 14848
   },
   {
    "path": "/price/",
-   "status": 200,
-   "ms": 1747
+   "status": 502,
+   "ms": 14848
   },
   {
    "path": "/contacts/",
-   "status": 200,
-   "ms": 1166
+   "status": 502,
+   "ms": 14846
   }
  ],
  "redirects": [
   {
    "path": "/staff/psychiatrists/boyko/",
-   "status": 301,
-   "to": "https://empathycenter.ru/staff/psychiatrists/"
+   "status": 502,
+   "to": null
   },
   {
    "path": "/price/psychiatrist/boyko/",
-   "status": 301,
-   "to": "https://empathycenter.ru/staff/psychiatrists/"
+   "status": 502,
+   "to": null
   },
   {
    "path": "/price/psychiatrist/boyko/boyko-psihiatr-pervichnyy/",
-   "status": 301,
-   "to": "https://empathycenter.ru/staff/psychiatrists/"
+   "status": 502,
+   "to": null
   },
   {
    "path": "/price/psychiatrist/boyko/info-boyko-psihiatr-pervichnyy/",
-   "status": 301,
-   "to": "https://empathycenter.ru/staff/psychiatrists/"
+   "status": 502,
+   "to": null
   },
   {
    "path": "/price/psychiatrist/boyko/boyko-psihiatr-bolnichnyy/",
-   "status": 301,
-   "to": "https://empathycenter.ru/staff/psychiatrists/"
+   "status": 502,
+   "to": null
   },
   {
    "path": "/price/psychiatrist/boyko/boyko-psihiatr-90/",
-   "status": 301,
-   "to": "https://empathycenter.ru/staff/psychiatrists/"
+   "status": 502,
+   "to": null
   },
   {
    "path": "/staff/psychiatrists/kuzmina/",
-   "status": 301,
-   "to": "https://empathycenter.ru/staff/psychiatrists/"
+   "status": 502,
+   "to": null
   }
  ],
  "sitemap": {
-  "files": [
-   {
-    "file": "sitemap-files.xml",
-    "status": 200,
-    "urls": 30
-   },
-   {
-    "file": "sitemap-iblock-4.xml",
-    "status": 200,
-    "urls": 79
-   },
-   {
-    "file": "sitemap-iblock-7.xml",
-    "status": 200,
-    "urls": 4
-   },
-   {
-    "file": "sitemap-iblock-9.xml",
-    "status": 200,
-    "urls": 19
-   },
-   {
-    "file": "sitemap-iblock-10.xml",
-    "status": 200,
-    "urls": 7
-   },
-   {
-    "file": "sitemap-iblock-20.xml",
-    "status": 200,
-    "urls": 12
-   },
-   {
-    "file": "sitemap-iblock-21.xml",
-    "status": 200,
-    "urls": 312
-   },
-   {
-    "file": "sitemap-iblock-22.xml",
-    "status": 200,
-    "urls": 1
-   },
-   {
-    "file": "sitemap-iblock-23.xml",
-    "status": 200,
-    "urls": 3
-   },
-   {
-    "file": "sitemap-iblock-24.xml",
-    "status": 200,
-    "urls": 535
-   },
-   {
-    "file": "sitemap-iblock-25.xml",
-    "status": 200,
-    "urls": 17
-   },
-   {
-    "file": "sitemap-iblock-27.xml",
-    "status": 200,
-    "urls": 116
-   }
-  ],
-  "total": 1135,
+  "files": [],
+  "total": 0,
   "fired_in_sitemap": []
  }
 }
