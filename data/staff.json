@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-25 11:26",
+ "checked_at": "2026-11-25 22:13",
  "main": [
   {
    "name": "Абашкина Анастасия Юрьевна",
@@ -17,16 +17,16 @@
   },
   {
    "name": "Атуев Магомедариф Асбегович",
-   "url": "/staff/psychiatrists/atuev-magomedarif-asbegovich/",
+   "url": "/staff/neurologist/atuew-magomedarif-asbegovich/",
    "sections": [
-    "Психиатр"
+    "Невролог"
    ]
   },
   {
    "name": "Атуев Магомедариф Асбегович",
-   "url": "/staff/neurologist/atuew-magomedarif-asbegovich/",
+   "url": "/staff/psychiatrists/atuev-magomedarif-asbegovich/",
    "sections": [
-    "Невролог"
+    "Психиатр"
    ]
   },
   {
@@ -38,9 +38,9 @@
   },
   {
    "name": "Богатырева Мари Львовна",
-   "url": "/staff/psychiatrists/bogatyreva-mary-lvovna/",
+   "url": "/staff/sexologists/bogatyreva-mari-lvovna/",
    "sections": [
-    "Психиатр"
+    "Сексолог"
    ]
   },
   {
@@ -52,16 +52,9 @@
   },
   {
    "name": "Богатырева Мари Львовна",
-   "url": "/staff/sexologists/bogatyreva-mari-lvovna/",
+   "url": "/staff/psychiatrists/bogatyreva-mary-lvovna/",
    "sections": [
-    "Сексолог"
-   ]
-  },
-  {
-   "name": "Вентерева Анжелика Михайловна",
-   "url": "/staff/endocrinologists/ventereva-anzhelika-mikhaylovna/",
-   "sections": [
-    "Эндокринолог"
+    "Психиатр"
    ]
   },
   {
@@ -69,6 +62,13 @@
    "url": "/staff/dietolog/ventereva-anzhelika-mikhaylovna-2/",
    "sections": [
     "Диетолог"
+   ]
+  },
+  {
+   "name": "Вентерева Анжелика Михайловна",
+   "url": "/staff/endocrinologists/ventereva-anzhelika-mikhaylovna/",
+   "sections": [
+    "Эндокринолог"
    ]
   },
   {
@@ -94,23 +94,16 @@
   },
   {
    "name": "Ефремов Антон Анатольевич",
-   "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/efremov-anton-anatolevich/",
-   "sections": [
-    "Детский и подростковый психиатр"
-   ]
-  },
-  {
-   "name": "Ефремов Антон Анатольевич",
    "url": "/staff/psychiatrists/efremov-anton-anatolevich-psychiatrist/",
    "sections": [
     "Психиатр"
    ]
   },
   {
-   "name": "Иванова Юлия Александровна",
-   "url": "/staff/psychiatrists/ivanova/",
+   "name": "Ефремов Антон Анатольевич",
+   "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/efremov-anton-anatolevich/",
    "sections": [
-    "Психиатр"
+    "Детский и подростковый психиатр"
    ]
   },
   {
@@ -118,6 +111,13 @@
    "url": "/staff/psychotherapists/ivanova-yuliya-aleksandrovna-2/",
    "sections": [
     "Психотерапевт"
+   ]
+  },
+  {
+   "name": "Иванова Юлия Александровна",
+   "url": "/staff/psychiatrists/ivanova/",
+   "sections": [
+    "Психиатр"
    ]
   },
   {
@@ -164,16 +164,16 @@
   },
   {
    "name": "Кассаева Полина Андреевна",
-   "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/kassaeva-polina6917/",
+   "url": "/staff/psychotherapists/kassaeva22/",
    "sections": [
-    "Детский и подростковый психиатр"
+    "Психотерапевт"
    ]
   },
   {
    "name": "Кассаева Полина Андреевна",
-   "url": "/staff/psychotherapists/kassaeva22/",
+   "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/kassaeva-polina6917/",
    "sections": [
-    "Психотерапевт"
+    "Детский и подростковый психиатр"
    ]
   },
   {
@@ -248,16 +248,16 @@
   },
   {
    "name": "Никитевич Алексей Владимирович",
-   "url": "/staff/psychiatrists/nikitevich-aleksey-vladimirovich/",
+   "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/nikitevich--aleksey-vladimirovich/",
    "sections": [
-    "Психиатр"
+    "Детский и подростковый психиатр"
    ]
   },
   {
    "name": "Никитевич Алексей Владимирович",
-   "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/nikitevich--aleksey-vladimirovich/",
+   "url": "/staff/psychiatrists/nikitevich-aleksey-vladimirovich/",
    "sections": [
-    "Детский и подростковый психиатр"
+    "Психиатр"
    ]
   },
   {
@@ -276,16 +276,16 @@
   },
   {
    "name": "Палешева Елена Валерьевна",
-   "url": "/staff/psychotherapists/palesheva-elena2/",
+   "url": "/staff/psychiatrists/palesheva/",
    "sections": [
-    "Психотерапевт"
+    "Психиатр"
    ]
   },
   {
    "name": "Палешева Елена Валерьевна",
-   "url": "/staff/psychiatrists/palesheva/",
+   "url": "/staff/psychotherapists/palesheva-elena2/",
    "sections": [
-    "Психиатр"
+    "Психотерапевт"
    ]
   },
   {
@@ -332,23 +332,16 @@
   },
   {
    "name": "Сорокина Арина Андреевна",
-   "url": "/staff/psychotherapists/kulinich-arina/",
-   "sections": [
-    "Психотерапевт"
-   ]
-  },
-  {
-   "name": "Сорокина Арина Андреевна",
    "url": "/staff/psychiatrists/kulinich/",
    "sections": [
     "Психиатр"
    ]
   },
   {
-   "name": "Столяров Антон Кириллович",
-   "url": "/staff/psychiatrists/stolyarov-anton-kirillovich/",
+   "name": "Сорокина Арина Андреевна",
+   "url": "/staff/psychotherapists/kulinich-arina/",
    "sections": [
-    "Психиатр"
+    "Психотерапевт"
    ]
   },
   {
@@ -356,6 +349,13 @@
    "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/stolyarov-anton-kirillovich-podrostkovy/",
    "sections": [
     "Детский и подростковый психиатр"
+   ]
+  },
+  {
+   "name": "Столяров Антон Кириллович",
+   "url": "/staff/psychiatrists/stolyarov-anton-kirillovich/",
+   "sections": [
+    "Психиатр"
    ]
   },
   {
@@ -416,14 +416,21 @@
   },
   {
    "name": "Холодков Дмитрий Александрович",
+   "url": "/staff/psychiatrists/kholodkov-dmitriy-aleksandrovich/",
+   "sections": [
+    "Психиатр"
+   ]
+  },
+  {
+   "name": "Холодков Дмитрий Александрович",
    "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/kholodkov-dmitriy-aleksandrovich-pod/",
    "sections": [
     "Детский и подростковый психиатр"
    ]
   },
   {
-   "name": "Холодков Дмитрий Александрович",
-   "url": "/staff/psychiatrists/kholodkov-dmitriy-aleksandrovich/",
+   "name": "Холодков Иван Сергеевич",
+   "url": "/staff/psychiatrists/kholodkov-ivan-sergeevich/",
    "sections": [
     "Психиатр"
    ]
@@ -443,13 +450,6 @@
    ]
   },
   {
-   "name": "Холодков Иван Сергеевич",
-   "url": "/staff/psychiatrists/kholodkov-ivan-sergeevich/",
-   "sections": [
-    "Психиатр"
-   ]
-  },
-  {
    "name": "Церетели Мария Александровна",
    "url": "/staff/psychologists/tsereteli-maria-aleksandrovna1/",
    "sections": [
@@ -465,6 +465,13 @@
   },
   {
    "name": "Черников Виктор Максимович",
+   "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/chernikov-viktor-maksimovich-detskyy/",
+   "sections": [
+    "Детский и подростковый психиатр"
+   ]
+  },
+  {
+   "name": "Черников Виктор Максимович",
    "url": "/staff/psychotherapists/chernikov-viktor-maksimovich-2/",
    "sections": [
     "Психотерапевт"
@@ -475,13 +482,6 @@
    "url": "/staff/psychiatrists/chernikov-viktor-maksimovich/",
    "sections": [
     "Психиатр"
-   ]
-  },
-  {
-   "name": "Черников Виктор Максимович",
-   "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/chernikov-viktor-maksimovich-detskyy/",
-   "sections": [
-    "Детский и подростковый психиатр"
    ]
   },
   {
@@ -507,6 +507,13 @@
   },
   {
    "name": "Штеренгарц Семён Наумович",
+   "url": "/staff/psychiatrists/shterengarts-semyen-naumovich/",
+   "sections": [
+    "Психиатр"
+   ]
+  },
+  {
+   "name": "Штеренгарц Семён Наумович",
    "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/shterengarts-semyen-naumovich-pod/",
    "sections": [
     "Детский и подростковый психиатр"
@@ -517,13 +524,6 @@
    "url": "/staff/psychotherapists/shterengarts-semyen-naumovich1792/",
    "sections": [
     "Психотерапевт"
-   ]
-  },
-  {
-   "name": "Штеренгарц Семён Наумович",
-   "url": "/staff/psychiatrists/shterengarts-semyen-naumovich/",
-   "sections": [
-    "Психиатр"
    ]
   },
   {
@@ -542,23 +542,16 @@
   },
   {
    "name": "Ямбаева Альбина Маратовна",
-   "url": "/staff/psychiatrists/yambaeva/",
-   "sections": [
-    "Психиатр"
-   ]
-  },
-  {
-   "name": "Ямбаева Альбина Маратовна",
    "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/yambaeva5339/",
    "sections": [
     "Детский и подростковый психиатр"
    ]
   },
   {
-   "name": "Ястребова Валентина Владимировна",
-   "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/yastrebova-valentina-vladimirowna/",
+   "name": "Ямбаева Альбина Маратовна",
+   "url": "/staff/psychiatrists/yambaeva/",
    "sections": [
-    "Детский и подростковый психиатр"
+    "Психиатр"
    ]
   },
   {
@@ -566,6 +559,13 @@
    "url": "/staff/psychiatrists/yastrebova-valentina-vladimirovna/",
    "sections": [
     "Психиатр"
+   ]
+  },
+  {
+   "name": "Ястребова Валентина Владимировна",
+   "url": "/staff/detskiy-i-podrostkovyy-psikhiatr/yastrebova-valentina-vladimirowna/",
+   "sections": [
+    "Детский и подростковый психиатр"
    ]
   }
  ],
